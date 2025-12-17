@@ -1,0 +1,1 @@
+﻿delete from contact_type where name = 'viber'

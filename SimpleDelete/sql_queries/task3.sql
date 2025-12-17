@@ -1,0 +1,1 @@
+﻿delete from customer_order where operation_time <= '2014-01-01'

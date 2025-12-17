@@ -1,0 +1,1 @@
+﻿delete from customer_order where id in (1, 7, 10)

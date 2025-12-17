@@ -1,0 +1,1 @@
+select count(id) as supermarket_count from supermarket 
